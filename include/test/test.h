@@ -9,5 +9,6 @@
 #ifndef libtest_test_h
 #define libtest_test_h
 
+extern void test ();
 
 #endif
